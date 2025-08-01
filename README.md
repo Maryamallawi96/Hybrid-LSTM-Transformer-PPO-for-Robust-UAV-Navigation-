@@ -80,38 +80,30 @@ The following media demonstrate the performance and capabilities of the Hybrid L
 🏋️ Training Environments 
 🌟 Unseen Environment  
 
-## 📊 Results & Visualization
+### 📊 Results & Visualization
+
 The following media demonstrate the performance and capabilities of the Hybrid LSTM-Transformer PPO for UAV navigation:
 
-
-### 🎯 Drone Navigation Through Obstacles
+#### 🎯 Drone Navigation Through Obstacles  
 A video showcasing the drone successfully navigating through a complex obstacle course using the trained policy.  
-https://github.com/Maryamallawi96/Hybrid-LSTM-Transformer-PPO-for-Robust-UAV-Navigation-/blob/main/Media3/Drone%20Navigation%20Through%20Obstacles..MP4
+[▶️ Watch Video](https://github.com/Maryamallawi96/Hybrid-LSTM-Transformer-PPO-for-Robust-UAV-Navigation-/blob/main/Media3/Drone%20Navigation%20Through%20Obstacles..MP4)
 
-
-### 👁️ Test - Front View
+#### 👁️ Test - Front View  
 This video provides a front-facing view of the drone during its navigation trials.  
+[▶️ Watch Video](https://github.com/Maryamallawi96/Hybrid-LSTM-Transformer-PPO-for-Robust-UAV-Navigation-/blob/main/Media3/Test%20(front%20view).mp4)
 
-https://github.com/Maryamallawi96/Hybrid-LSTM-Transformer-PPO-for-Robust-UAV-Navigation-/blob/main/Media3/Test%20(front%20view).mp4
-
-### 🔝 Test - Top View
+#### 🔝 Test - Top View  
 A top-down perspective video highlighting the drone's path planning and obstacle avoidance.  
+[▶️ Watch Video](https://github.com/Maryamallawi96/Hybrid-LSTM-Transformer-PPO-for-Robust-UAV-Navigation-/blob/main/Media3/Test%20(Top%20view.mp4)
 
-https://github.com/Maryamallawi96/Hybrid-LSTM-Transformer-PPO-for-Robust-UAV-Navigation-/blob/main/Media3/Test%20(Top%20view.mp4
-
-### 🏋️ Training Environments  
+#### 🏋️ Training Environments  
 Snapshot of the simulated environments used for training the agent.  
-![Training Environments]
+![Training Environments](https://github.com/Maryamallawi96/Hybrid-LSTM-Transformer-PPO-for-Robust-UAV-Navigation-/blob/main/Media3/Training%20environments.png)
 
-https://github.com/Maryamallawi96/Hybrid-LSTM-Transformer-PPO-for-Robust-UAV-Navigation-/blob/main/Media3/Training%20environments.png
-
-### 🌟 Unseen Environment  
+#### 🌟 Unseen Environment  
 Screenshot depicting the drone navigating in a previously unseen environment to evaluate generalization.  
-![Unseen Environment]
+![Unseen Environment](https://github.com/Maryamallawi96/Hybrid-LSTM-Transformer-PPO-for-Robust-UAV-Navigation-/blob/main/Media3/unseen%20env.png)
 
-https://github.com/Maryamallawi96/Hybrid-LSTM-Transformer-PPO-for-Robust-UAV-Navigation-/blob/main/Media3/unseen%20env.png
-
----
 
 ## 👩‍💻 **Author**  
 **Maryam Allawi**  
