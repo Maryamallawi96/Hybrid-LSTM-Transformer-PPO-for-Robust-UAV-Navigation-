@@ -1,4 +1,4 @@
-# 🚁 Hybrid LSTM-Transformer PPO  
+# 🚁 Hybrid LSTM-Transformer PPO for Robust UAV Navigation Bridging Short-Term Reactivity and Long-Term Planning. 
 ---
 ## 📝 **Overview**  
 This project implements a novel deep reinforcement learning algorithm combining LSTM and Transformer architectures with Proximal Policy Optimization (PPO) to enhance UAV navigation in partially observable and dynamic environments. The approach balances short-term reactivity with long-term planning, enabling robust obstacle avoidance and efficient path planning using only LiDAR inputs.
