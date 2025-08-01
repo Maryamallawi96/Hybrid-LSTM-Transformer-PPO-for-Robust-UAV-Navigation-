@@ -80,31 +80,30 @@ The following media demonstrate the performance and capabilities of the Hybrid L
 🏋️ Training Environments 
 🌟 Unseen Environment  
 
-### 🎯 Drone Navigation Through Obstacles
+## 🎯 Drone Navigation Through Obstacles
 A video showcasing the drone successfully navigating through a complex obstacle course using the trained policy.  
-[▶️ Watch Video](Media3/Drone Navigation Through Obstacles..MP4)
+[▶️ Watch Video](Media3/Drone%20Navigation%20Through%20Obstacles..MP4)
 
 ### 👁️ Test - Front View
 A front-facing view of the drone during navigation trials.  
-[▶️ Watch Video](Media3/Test (front view).mp4)
+[▶️ Watch Video](Media3/Test%20(front%20view).mp4)
 
 ### 🔝 Test - Top View
 A top-down view highlighting path planning and obstacle avoidance.  
-[▶️ Watch Video](Media3/Test (Top view.mp4)
+[▶️ Watch Video](Media3/Test%20(Top%20view).mp4)
 
 ### 🏋️ Training Environments
 Snapshot of simulated environments used for training.  
-[Training Environments](Media3/Training environments.png)
+[Training Environments](Media3/Training%20environments.png)
 
 ### 🌟 Unseen Environment
 Screenshot depicting the drone navigating a previously unseen environment.  
-[Unseen Environment](Media3/unseen env.png)
+[Unseen Environment](Media3/unseen%20env.png)
 
 
 ## 👩‍💻 **Author**  
 **Maryam Allawi**  
-✉️ Email: 
-pgs.maryam.allawi@uobasrah.edu.iq  
+✉️ Email:pgs.maryam.allawi@uobasrah.edu.iq  
 🌐 GitHub:[Maryamallawi96](https://github.com/Maryamallawi96)
 
 ---
