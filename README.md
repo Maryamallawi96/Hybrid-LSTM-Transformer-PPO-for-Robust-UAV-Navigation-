@@ -70,7 +70,7 @@ rosrun hybrid_lstm_transformer_ppo train_hybrid_ppo.py
 The UAV will autonomously navigate while learning to avoid obstacles, balancing reactive and strategic planning
 
 
-📊 Results & Visualization  📸
+## 📂 **Results & Visualiza**tion  📸
 The following media demonstrate the performance and capabilities of the Hybrid LSTM-Transformer PPO for UAV navigation:
 
 🎯 Drone Navigation Through Obstacles
