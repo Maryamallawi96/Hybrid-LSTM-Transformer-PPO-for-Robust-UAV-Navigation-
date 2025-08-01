@@ -89,43 +89,8 @@ Screenshot depicting the drone navigating in a previously unseen environment to 
 https://github.com/Maryamallawi96/Hybrid-LSTM-Transformer-PPO-for-Robust-UAV-Navigation-/blob/main/Media3/unseen%20env.png
 
 
-
 Author
 Maryam Allawi
 Email: pgs.maryam.allawi@uobasrah.edu.iq
 GitHub: Maryamallawi96
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
