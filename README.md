@@ -86,28 +86,29 @@ The following media demonstrate the performance and capabilities of the Hybrid L
 
 #### 🎯 Drone Navigation Through Obstacles  
 A video showcasing the drone successfully navigating through a complex obstacle course using the trained policy.  
-[▶️ Watch Video](https://github.com/Maryamallawi96/Hybrid-LSTM-Transformer-PPO-for-Robust-UAV-Navigation-/blob/main/Media3/Drone%20Navigation%20Through%20Obstacles..MP4)
+https://github.com/Maryamallawi96/Hybrid-LSTM-Transformer-PPO-for-Robust-UAV-Navigation-/blob/main/Media3/Drone%20Navigation%20Through%20Obstacles..MP4
 
 #### 👁️ Test - Front View  
-This video provides a front-facing view of the drone during its navigation trials.  
-[▶️ Watch Video](https://github.com/Maryamallawi96/Hybrid-LSTM-Transformer-PPO-for-Robust-UAV-Navigation-/blob/main/Media3/Test%20(front%20view).mp4)
+This video provides a front-facing view of the drone during its navigation trials. 
+https://github.com/Maryamallawi96/Hybrid-LSTM-Transformer-PPO-for-Robust-UAV-Navigation-/blob/main/Media3/Test%20(front%20view).mp4
 
 #### 🔝 Test - Top View  
 A top-down perspective video highlighting the drone's path planning and obstacle avoidance.  
-[▶️ Watch Video](https://github.com/Maryamallawi96/Hybrid-LSTM-Transformer-PPO-for-Robust-UAV-Navigation-/blob/main/Media3/Test%20(Top%20view.mp4)
+https://github.com/Maryamallawi96/Hybrid-LSTM-Transformer-PPO-for-Robust-UAV-Navigation-/blob/main/Media3/Test%20(Top%20view.mp4
 
 #### 🏋️ Training Environments  
 Snapshot of the simulated environments used for training the agent.  
-![Training Environments](https://github.com/Maryamallawi96/Hybrid-LSTM-Transformer-PPO-for-Robust-UAV-Navigation-/blob/main/Media3/Training%20environments.png)
+https://github.com/Maryamallawi96/Hybrid-LSTM-Transformer-PPO-for-Robust-UAV-Navigation-/blob/main/Media3/Training%20environments.png
 
 #### 🌟 Unseen Environment  
 Screenshot depicting the drone navigating in a previously unseen environment to evaluate generalization.  
-![Unseen Environment](https://github.com/Maryamallawi96/Hybrid-LSTM-Transformer-PPO-for-Robust-UAV-Navigation-/blob/main/Media3/unseen%20env.png)
+https://github.com/Maryamallawi96/Hybrid-LSTM-Transformer-PPO-for-Robust-UAV-Navigation-/blob/main/Media3/unseen%20env.png
 
 
 ## 👩‍💻 **Author**  
 **Maryam Allawi**  
-✉️ Email: pgs.maryam.allawi@uobasrah.edu.iq  
+✉️ Email: 
+pgs.maryam.allawi@uobasrah.edu.iq  
 🌐 GitHub: [Maryamallawi96](https://github.com/Maryamallawi96)
 
 ---
