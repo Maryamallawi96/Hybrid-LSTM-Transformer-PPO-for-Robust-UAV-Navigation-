@@ -97,7 +97,7 @@ https://github.com/Maryamallawi96/Hybrid-LSTM-Transformer-PPO-for-Robust-UAV-Nav
 
 🔝 Test - Top View
 A top-down view highlighting path planning and obstacle avoidance.
-[▶️ Watch Video](https://github.com/Maryamallawi96/Hybrid-LSTM-Transformer-PPO-for-Robust-UAV-Navigation-/blob/main/Media3/Test%20(Top%20view.mp4)
+https://github.com/Maryamallawi96/Hybrid-LSTM-Transformer-PPO-for-Robust-UAV-Navigation-/blob/main/Media3/Test%20(Top%20view.mp4
 
 🏋️ Training Environments
 Snapshot of simulated environments used for training.
